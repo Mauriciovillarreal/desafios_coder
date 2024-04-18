@@ -1,0 +1,19 @@
+h1 {
+    color: red
+}
+
+#products-list li {
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid black;
+    display: inline-flex;
+    text-align: center;
+    align-items: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: center;
+}

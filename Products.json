@@ -1,0 +1,61 @@
+[
+	{
+		"title": "CODE",
+		"description": "100ml",
+		"price": 22500,
+		"code": "5asd5a22AHsd4",
+		"stock": 15,
+		"id": 1,
+		"category": "perfume"
+	},
+	{
+		"title": "BOSS",
+		"description": "100ml",
+		"price": 22500,
+		"code": "5asd5a22s22ad4",
+		"stock": 15,
+		"id": 2,
+		"category": "perfume"
+	},
+	{
+		"title": "ARMANI",
+		"description": "100ml",
+		"price": 22500,
+		"code": "5asd5a22s22ad4",
+		"stock": 15,
+		"id": 3,
+		"category": "perfume"
+	},
+	{
+		"title": "DIOR",
+		"description": "100ml",
+		"price": 22500,
+		"code": "5asd5a22s22ad4",
+		"stock": 15,
+		"id": 4,
+		"category": "perfume"
+	},
+	{
+		"title": "VERSACE",
+		"description": "100ml",
+		"price": 22500,
+		"code": "5asd5a22s22ad4",
+		"stock": 15,
+		"id": 5,
+		"category": "perfume"
+	},
+	{
+		"title": "CALVIN KLEIN",
+		"description": "100ml",
+		"price": 22500,
+		"code": "5asd5a22s22ad4",
+		"stock": 15,
+		"id": 6,
+		"category": "perfume"
+	},
+	{
+		"title": "ARMANI CODE",
+		"price": 99585,
+		"id": 7
+	}
+]

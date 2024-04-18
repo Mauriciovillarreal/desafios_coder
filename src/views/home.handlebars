@@ -1,0 +1,14 @@
+<main>
+    <h1>Perfumes</h1>
+    <ul>
+        {{#each products}}
+      
+        <li>{{this.id}} - {{this.title}} - ${{this.price}}</li>
+        {{/each}}
+    </ul>
+</main>
+<script src="/socket.io/socket.io.js"></script>
+<script>
+  var socket = io();
+</script>
+<script src="/js/home.js"></script>
